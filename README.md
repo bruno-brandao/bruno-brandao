@@ -1,5 +1,8 @@
 ### Hi there 👋! I'm Bruno 👋 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-brandao-808b4473/)](https://www.linkedin.com/in/bruno-brandao-808b4473)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/bruno.eduardosb/)](https://www.instagram.com/bruno.eduardosb/)
+[![Wakatime Badge](https://raw.githubusercontent.com/bruno-brandao/bruno-brandao/master/wakatime-badge.svg)](https://wakatime.com/@7886ec48-355c-4f8f-963f-66ab9a594a25) 
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/bruno-brandao/)](https://github.com/bruno-brandao) 
 <!--
 **bruno-brandao/bruno-brandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
