@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 JavaScript   3 hrs 13 mins   █████████████████████████   99.76 % 
 ```
 <!--END_SECTION:waka-->
+
+## Github Stats 
+
+[![BrunoBrandao's github stats](https://github-readme-stats.vercel.app/api?username=bruno-brandao&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/bruno-brandao) [![BrunoBrandao's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=bruno-brandao&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/bruno-brandao)
