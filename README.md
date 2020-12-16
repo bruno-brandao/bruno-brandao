@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Wakatime weekly stats 
-<! - START_SECÇÃO: waka ->
-<! - END_SECTION: waka ->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
