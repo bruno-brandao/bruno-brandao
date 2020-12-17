@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 ## Wakatime weekly stats 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 47 mins   ████████████████████████░   95.50 % 
-C#           24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Week: 09 December, 2020 - 16 December, 2020
+
+JavaScript   8 hrs 47 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.50 % 
+C#           24 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.49 % 
 ```
 <!--END_SECTION:waka-->
 
