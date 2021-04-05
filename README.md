@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Wakatime weekly stats 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 March, 2021 - 03 April, 2021
+Week: 28 March, 2021 - 04 April, 2021
 
 Other        20 hrs 40 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤   97.20 % 
 SQL          34 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.69 % 
