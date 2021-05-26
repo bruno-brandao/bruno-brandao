@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ## Wakatime weekly stats 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 May, 2021 - 24 May, 2021
+Week: 18 May, 2021 - 25 May, 2021
 
-SQL    1 hr 35 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀   67.14 % 
-HTML   40 mins         ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.71 % 
-XML    5 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.15 % 
+SQL    1 hr 43 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀   68.98 % 
+HTML   40 mins         ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.32 % 
+XML    5 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.70 % 
 ```
 <!--END_SECTION:waka-->
 
