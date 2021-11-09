@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Wakatime weekly stats 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2021 - 07 November, 2021
+Week: 02 November, 2021 - 08 November, 2021
 
 Other        17 hrs 53 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀   84.55 % 
 C#           2 hrs 11 mins   ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.37 % 
