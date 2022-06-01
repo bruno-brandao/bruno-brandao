@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2022 - To: 30 May 2022
-
-HTML   13 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
