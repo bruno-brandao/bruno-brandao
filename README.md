@@ -30,3 +30,6 @@ No activity tracked
 ## Github Stats 
 
 [![BrunoBrandao's github stats](https://github-readme-stats.vercel.app/api?username=bruno-brandao&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/bruno-brandao) [![BrunoBrandao's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=bruno-brandao&include_all_commits=true&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/bruno-brandao)
+
+## Stars
+<a href="https://stardev.io/developers/bruno-brandao"><img alt="Check out bruno-brandao's profile on stardev.io" src="https://stardev.io/developers/bruno-brandao/badge/languages/country.svg" /></a>
